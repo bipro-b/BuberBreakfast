@@ -1,0 +1,12 @@
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\bin\Debug\net8.0\BuberBreakfst.Contracts.deps.json
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\bin\Debug\net8.0\BuberBreakfst.Contracts.dll
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\bin\Debug\net8.0\BuberBreakfst.Contracts.pdb
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.AssemblyInfoInputs.cache
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.AssemblyInfo.cs
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.csproj.CoreCompileInputs.cache
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.sourcelink.json
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.dll
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\refint\BuberBreakfst.Contracts.dll
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\BuberBreakfst.Contracts.pdb
+D:\DEV\dot net projetcts\BuberBreakfast\BuberBreakfst.Contracts\obj\Debug\net8.0\ref\BuberBreakfst.Contracts.dll
